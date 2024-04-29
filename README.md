@@ -7,13 +7,17 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cemal-kirtan)
 [![website](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cemalkirtan.dev@gmail.com)
 
+<br/><br/>
+
 I'm Full-Stack Java Developer with a passion for Science
 
+<br/><br/>
 <br/><br/>
 
 ## 💻 Tech Stack:
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> 
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://spring.io" target="_blank"><img style="margin: 10px" src="https://spring.io/img/spring.svg" alt="Spring" height="50" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" height="50" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" style="max-width: 100%;"></a>  
@@ -26,8 +30,6 @@ I'm Full-Stack Java Developer with a passion for Science
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a> 
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /> 
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://v4.webpack.js.org/d19378a95ebe6b15d5ddea281138dcf4.svg" alt="Webpack" height="50" /></a>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://www.cdnlogo.com/logos/n/80/next-js.svg" alt="NextJs" height="50" /></a>   
 </div>
 
 <!--
